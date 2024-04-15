@@ -1,0 +1,17 @@
+All assets listed here are licensed as free to use for non-commercial purposes.
+
+1: https://assetstore.unity.com/packages/3d/environments/fantasy/church-3d-68143 (converted from Unity built-in pipeline to Unity URP by Michael Makarenko)
+
+2: https://assetstore.unity.com/packages/2d/textures-materials/nature/grass-flowers-pack-free-138810 (grass material and texture slightly edited by Michael Makarenko)
+
+3: https://assetstore.unity.com/packages/2d/textures-materials/noirmat-marble-pack-vol-01-128318 
+
+4: https://assetstore.unity.com/packages/3d/vegetation/trees/lemon-trees-200372 
+
+5: https://jojotextures.blogspot.com/2016/12/stained-glass-seamless-textures-1.html
+
+6: https://freeimage.host/i/3165-normal.HfxgunV
+
+7: https://assetstore.unity.com/packages/3d/props/exterior/street-lamps-2-260395 
+
+8: https://github.com/googlevr/cardboard-xr-plugin 
